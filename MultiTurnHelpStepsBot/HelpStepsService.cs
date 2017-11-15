@@ -31,7 +31,7 @@ namespace MultiTurnHelpStepsBot
             help4Steps.Add(new HelpStep() { StepText = "H4: Step 1", Description = "This is the first step." });
             help4Steps.Add(new HelpStep() { StepText = "H4: Step 2", Description = "This is the second step." });
             help4Steps.Add(new HelpStep() { StepText = "H4: Step 3", Description = "This is the third step." });
-            help4Steps.Add(new HelpStep() { StepText = "H4: Step 4", Description = "This is the third step." });
+            help4Steps.Add(new HelpStep() { StepText = "H4: Step 4", Description = "This is the fourth step." });
             _helpWithSteps.Add("HELP4", help4Steps);
         }
 
